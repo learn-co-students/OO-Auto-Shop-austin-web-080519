@@ -12,9 +12,9 @@ Here's what we need to be able to do.
 
 **CarOwner**
 
-  - Get a list of all owners
+  <!-- - Get a list of all owners -->
 
-  - Get a list of all the cars that a specific owner has
+  <!-- - Get a list of all the cars that a specific owner has -->
 
   - Get a list of all the mechanics that a specific owner goes to
 
@@ -22,15 +22,15 @@ Here's what we need to be able to do.
 
 **Car**
 
-  - Get a list of all cars
+  <!-- - Get a list of all cars -->
 
-  - Get a list of all car classifications
+  <!-- - Get a list of all car classifications -->
 
-  - Get a list of mechanics that have an expertise that matches the car classification
+  <!-- - Get a list of mechanics that have an expertise that matches the car classification -->
 
 **Mechanic**
 
-  - Get a list of all mechanics
+  <!-- - Get a list of all mechanics -->
 
   - Get a list of all cars that a mechanic services
 
